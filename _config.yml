@@ -190,7 +190,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   portfolio:
-    output:false
+    output: false
     permalink: /:collection/:path/
 
 
