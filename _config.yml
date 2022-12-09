@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Peng Yang"
+  name             : "Peng (Jason) Yang"
   avatar           : "profile.png"
   bio              : "Ph.D. in statistics, Rice University"
   location         : "Houston, Tx"
@@ -181,10 +181,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

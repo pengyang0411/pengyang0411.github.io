@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. student from the [Department of Statistics](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). I jointly work with both Dr. [Ying Yuan](https://odin.mdacc.tmc.edu/~yyuan/), Dr. [Liang Li](https://sites.google.com/site/lianglibiostatistician/home) and Dr. [Ziyi Li](https://ziyili20.github.io/).
 
+## Research Interest
+
 My research focus is to develp new statistical methods and computational tools for the application of cancer clinical trials and genomic data. My interested ares are:
 
 * Bayesian statistics and hypothesis testing
