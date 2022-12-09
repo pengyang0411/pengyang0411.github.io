@@ -12,7 +12,7 @@ I am a Ph.D. student from the [Department of Statistics](https://eceweb.rice.edu
 
 ## Research Interest
 
-My research focus is to develp new statistical methods and computational tools for the application of cancer clinical trials and genomic data. My interested ares are:
+My research focus is to develop new statistical methods and computational tools for the application of cancer clinical trials and genomic data. My interested areas are:
 
 * Bayesian statistics and hypothesis testing
 * Bayesian adaptive clinical trial design
