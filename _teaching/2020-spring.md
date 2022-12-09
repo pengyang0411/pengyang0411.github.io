@@ -1,5 +1,5 @@
 ---
-title: "STAT 553 - BIOSTATISTICS"
+title: "STAT 553 - BIOSTATISTICS(https://courses.rice.edu/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201520&p_crn=20434)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-spring
