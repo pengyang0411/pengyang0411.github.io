@@ -186,12 +186,6 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-  posts:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -201,7 +195,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: archive
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -237,7 +231,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: archive
+      layout: single
       author_profile: true
       share: true
       comment: true
