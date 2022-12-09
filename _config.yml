@@ -186,6 +186,12 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  posts:
+    output: false
+    permalink: /:collection/:path/
+  portfolio:
+    output:false
+    permalink: /:collection/:path/
 
 
 # Defaults
