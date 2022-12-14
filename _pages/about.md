@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student from the [Department of Statistics](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). I jointly work with both Dr. [Ying Yuan](https://odin.mdacc.tmc.edu/~yyuan/), Dr. [Liang Li](https://sites.google.com/site/lianglibiostatistician/home) and Dr. [Ziyi Li](https://ziyili20.github.io/).
+I am a Ph.D. student from the [Department of Statistics](https://eceweb.rice.edu/) at [Rice University](https://www.rice.edu/). I jointly work with both Dr. [Ying Yuan](https://odin.mdacc.tmc.edu/~yyuan/), Dr. [Ziyi Li](https://ziyili20.github.io/) and Dr. [Liang Li](https://sites.google.com/site/lianglibiostatistician/home).
 
 ## Research Interest
 
