@@ -16,7 +16,7 @@ My research focus is to develop new statistical methods and computational tools 
 
 * Bayesian statistics and hypothesis testing
 * Bayesian adaptive clinical trial design
-* Deconvolution to infer celluar structure in RNAseq data
+* Deconvolution to infer cellular structure in RNAseq data
 * Single-cell RNAseq data analysis
 
 
