@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <br>
-<b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://github.com/pengyang0411/MDR)</b> <br> 
+<b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://arxiv.org/pdf/2302.09612.pdf)</b> <br> 
 <b>Peng Yang</b>,  Ying Yuan. <br> 
 <i>In Submission.</i>
 
