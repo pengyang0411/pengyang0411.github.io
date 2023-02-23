@@ -6,7 +6,7 @@ author_profile: true
 
 <br>
 <b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://arxiv.org/pdf/2302.09612.pdf)</b> <br> 
-<b>Peng Yang</b>,  Ying Yuan. <br> 
+<b>Peng Yang</b>, Daniel Li, Ruitao Lin, Bo Huang, Ying Yuan. <br> 
 <i>In Submission.</i>
 
 <br>
@@ -26,6 +26,6 @@ Shaolong Cao, Jennifer R. Wang, Shuangxi Ji, <b>Peng Yang</b>, ... & Wenyi Wang.
 <b>Nature biotechnology</b>. 
 <!-- <span style="color:red">[Paper Link](https://arxiv.org/pdf/1907.09539.pdf)</span>-->
 
-<b>[Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype](https://www.biorxiv.org/content/10.1101/2022.10.27.514047v1)</b> <br> 
-Vahid Bahrambeigi, Jaewon J. Lee, Vittorio Branchi, Jason T. Henry, Kimal I. Rajapakshe, Bret M. Stephens, Sarah Dhebat, Mark W. Hurd, Ryan Sun, <b>Peng Yang</b>, Wenyi Wang, Scott E. Kopetz, Anirban Maitra, Paola A. Guerrero. <br> 
+<b>[Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype](https://www.biorxiv.org/content/10.1101/2022.10.27.514047v2)</b> <br> 
+Vahid Bahrambeigi, Jaewon J. Lee, Vittorio Branchi, Jason T. Henry, Kimal I. Rajapakshe, Bret M. Stephens, Sarah Dhebat, Mark W. Hurd, Ryan Sun, <b>Peng Yang</b>, Eytan Ruppin, Wenyi Wang, Scott E. Kopetz, Anirban Maitra, Paola A. Guerrero. <br> 
 <i>In Biorxiv.</i>
