@@ -10,6 +10,11 @@ author_profile: true
 <i>In Submission.</i>
 
 <br>
+<b>[SAM: Self-adapting Mixture Prior to Dynamically Borrow Information from Historical Data in Clinical Trials](https://arxiv.org/pdf/2305.12279.pdf)</b> <br> 
+<b>Peng Yang</b>, Yuansong Zhao, Lei Nie, Jonathon Vallejo, Ying Yuan. <br> 
+<i>In Submission.</i>
+
+<br>
 <b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://github.com/pengyang0411/ICeITH)</b> <br> 
 <b>Peng Yang</b>,  Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun Zhang, and Ziyi Li. <br> 
 <i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!<i>
