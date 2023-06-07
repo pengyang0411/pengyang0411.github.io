@@ -1,7 +1,7 @@
 ---
-title: "Poster"
+title: "ABGOD: Deconvolution Model Reveals Intratumor Heterogeneity"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/2023-03-17-ABGOD
 venue: "UT Dallas, Department of Statistics"
 date: 2023-03-16
