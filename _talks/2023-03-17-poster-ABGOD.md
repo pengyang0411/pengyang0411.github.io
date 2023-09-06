@@ -10,4 +10,4 @@ location: "Dallas, Texas"
 
 A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-Region Gene Expression Sequencing.
 
-[Download poster here](http://academicpages.github.io/files/ICeITH_poster_ABGOD_2023.pdf)
+[Download poster here](https://pengyang0411.github.io/files/ICeITH_poster_ABGOD_2023.pdf)
