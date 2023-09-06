@@ -12,7 +12,7 @@ author_profile: true
 <br>
 <b>[SAM: Self-adapting Mixture Prior to Dynamically Borrow Information from Historical Data in Clinical Trials](https://arxiv.org/pdf/2305.12279.pdf)</b> <br> 
 <b>Peng Yang</b>, Yuansong Zhao, Lei Nie, Jonathon Vallejo, Ying Yuan. <br> 
-<i>In Submission.</i>
+<b>Biometrics.</b>
 
 <br>
 <b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://github.com/pengyang0411/ICeITH)</b> <br> 
