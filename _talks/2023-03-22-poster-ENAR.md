@@ -1,14 +1,14 @@
 ---
-title: "JSM: Methodological Advances in Cell Type Deconvolution and Discrimination"
+title: "ENAR: Deconvolution Model Reveals Intratumor Heterogeneity"
 collection: talks
 type: "Poster"
-permalink: /talks/2023-08-10_JSM
+permalink: /talks/2023-03-22-poster-ENAR
 venue: ""
 paperurl: 'http://academicpages.github.io/files/ICeITH_poster_ENAR_2023_.pdf'
-date: 2023-08-10
-location: "Toronto, Canada"
+date: 2023-03-22
+location: "Nashville, Tennessee"
 ---
 
 A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-Region Gene Expression Sequencing/
 
-[Download slides here](http://academicpages.github.io/files/ICeITH_presentation_JSM.pdf)
+[Download poster here](http://academicpages.github.io/files/ICeITH_poster_ENAR_2023_.pdf)
