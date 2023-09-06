@@ -4,7 +4,6 @@ collection: talks
 type: "Poster"
 permalink: /talks/2023-03-22-poster-ENAR
 venue: "Convention Center"
-paperurl: 'http://academicpages.github.io/files/ICeITH_poster_ENAR_2023_.pdf'
 date: 2023-03-22
 location: "Nashville, Tennessee"
 ---
