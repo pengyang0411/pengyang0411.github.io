@@ -10,7 +10,7 @@ author_profile: true
 <i>In Submission.</i>
 
 <br>
-<b>[SAM: Self-adapting Mixture Prior to Dynamically Borrow Information from Historical Data in Clinical Trials](https://arxiv.org/pdf/2305.12279.pdf)</b> <br> 
+<b>[SAM: Self-adapting Mixture Prior to Dynamically Borrow Information from Historical Data in Clinical Trials](https://onlinelibrary.wiley.com/doi/10.1111/biom.13927)</b> <br> 
 <b>Peng Yang</b>, Yuansong Zhao, Lei Nie, Jonathon Vallejo, Ying Yuan. <br> 
 <b>Biometrics.</b>
 
