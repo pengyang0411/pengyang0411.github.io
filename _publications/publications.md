@@ -7,18 +7,18 @@ author_profile: true
 <br>
 <b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://arxiv.org/pdf/2302.09612.pdf)</b> <br> 
 <b>Peng Yang</b>, Daniel Li, Ruitao Lin, Bo Huang, Ying Yuan. <br> 
-<i>In Submission.</i>
+<i>In Submission.</i> [Software](https://www.trialdesign.org/one-page-shell.html#MERIT) <br>
 
 <br>
 <b>[SAM: Self-adapting Mixture Prior to Dynamically Borrow Information from Historical Data in Clinical Trials](https://onlinelibrary.wiley.com/doi/10.1111/biom.13927)</b> <br> 
 <b>Peng Yang</b>, Yuansong Zhao, Lei Nie, Jonathon Vallejo, Ying Yuan. <br> 
-<b>Biometrics.</b>
+<b>Biometrics.</b> [Software](https://cran.r-project.org/web/packages/SAMprior/index.html) <br>
 
 <br>
 <b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://github.com/pengyang0411/ICeITH)</b> <br> 
 <b>Peng Yang</b>,  Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun Zhang, and Ziyi Li. <br> 
 <i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!<i>
-<i>In Submission.</i> 
+<i>In Submission.</i> [Software](https://github.com/pengyang0411/ICeITH) <br>
 
 <br>
 <b>[A Bayesian Design to Adaptively Borrow Information by Incorporating Longitudinal Measurements]</b> <br> 
