@@ -17,8 +17,8 @@ author_profile: true
 <br>
 <b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://github.com/pengyang0411/ICeITH)</b> <br> 
 <b>Peng Yang</b>,  Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun Zhang, and Ziyi Li. <br> 
-<i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!<i>
-<i>In Submission.</i> [Software](https://github.com/pengyang0411/ICeITH) <br>
+<i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!<i> <br>
+<i>Revision in AOAS.</i> [Software](https://github.com/pengyang0411/ICeITH) <br>
 
 <br>
 <b>[A Bayesian Design to Adaptively Borrow Information by Incorporating Longitudinal Measurements]</b> <br> 
