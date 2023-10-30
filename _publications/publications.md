@@ -16,7 +16,7 @@ author_profile: true
 <b>Biometrics.</b> [Software](https://cran.r-project.org/web/packages/SAMprior/index.html) <br>
 
 <br>
-<b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://github.com/pengyang0411/ICeITH)</b> <br> 
+<b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://www.biorxiv.org/content/10.1101/2023.10.24.563820v1.full.pdf)</b> <br> 
 <b>Peng Yang</b>,  Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun Zhang, and Ziyi Li. <br> 
 <i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!<i> <br>
 <i>Revision in AOAS.</i> [Software](https://github.com/pengyang0411/ICeITH) <br>
