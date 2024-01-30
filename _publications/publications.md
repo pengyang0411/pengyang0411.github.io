@@ -19,7 +19,7 @@ author_profile: true
 <b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://www.biorxiv.org/content/10.1101/2023.10.24.563820v1.full.pdf)</b> <br> 
 <b>Peng Yang</b>,  Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun Zhang, and Ziyi Li. <br> 
 <i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!<i> <br>
-<i>Revision in AOAS.</i> [Software](https://github.com/pengyang0411/ICeITH) <br>
+<i>Annals of Applied Statistics.</i> [Software](https://github.com/pengyang0411/ICeITH) <br>
 
 <br>
 <b>[A Bayesian Design to Adaptively Borrow Information by Incorporating Longitudinal Measurements]</b> <br> 
@@ -34,4 +34,4 @@ Shaolong Cao, Jennifer R. Wang, Shuangxi Ji, <b>Peng Yang</b>, ... & Wenyi Wang.
 
 <b>[Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype](https://www.biorxiv.org/content/10.1101/2022.10.27.514047v2)</b> <br> 
 Vahid Bahrambeigi, Jaewon J. Lee, Vittorio Branchi, Jason T. Henry, Kimal I. Rajapakshe, Bret M. Stephens, Sarah Dhebat, Mark W. Hurd, Ryan Sun, <b>Peng Yang</b>, Eytan Ruppin, Wenyi Wang, Scott E. Kopetz, Anirban Maitra, Paola A. Guerrero. <br> 
-<i>In Biorxiv.</i>
+<i>Cancer Research.</i>
