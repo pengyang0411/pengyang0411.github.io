@@ -7,7 +7,7 @@ author_profile: true
 <br>
 <b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://arxiv.org/pdf/2302.09612.pdf)</b> <br> 
 <b>Peng Yang</b>, Daniel Li, Ruitao Lin, Bo Huang, Ying Yuan. <br> 
-<i>Selected for the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop Student Poster Award!<i> <br>
+<i>Selected for the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop Student Poster Award!</i> <br>
 <b>Statistics in Medicine.</b> [Software](https://www.trialdesign.org/one-page-shell.html#MERIT) <br>
 
 <br>
@@ -18,7 +18,7 @@ author_profile: true
 <br>
 <b>[A Novel Bayesian Model for Assessing Intratumor Heterogeneity of Tumor Infiltrating Leukocytes with Multi-region Gene Expression Sequencing](https://www.biorxiv.org/content/10.1101/2023.10.24.563820v1.full.pdf)</b> <br> 
 <b>Peng Yang</b>,  Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun Zhang, and Ziyi Li. <br> 
-<i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!<i> <br>
+<i>Selected for the 2023 ASA Section on Statistics in Genomics and Genetics (SGG) Student Paper Award!</i> <br>
 <b>Annals of Applied Statistics.</b> [Software](https://github.com/pengyang0411/ICeITH) <br>
 
 <br>
