@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <br>
-<b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://arxiv.org/pdf/2302.09612.pdf)</b> <br> 
+<b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://onlinelibrary.wiley.com/doi/10.1002/sim.10093)</b> <br> 
 <b>Peng Yang</b>, Daniel Li, Ruitao Lin, Bo Huang, Ying Yuan. <br> 
 <i>Selected for the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop Student Poster Award!</i> <br>
 <b>Statistics in Medicine.</b> [Software](https://www.trialdesign.org/one-page-shell.html#MERIT) <br>
