@@ -28,10 +28,6 @@ Shaolong Cao, Jennifer R. Wang, Shuangxi Ji, <b>Peng Yang</b>, ... & Wenyi Wang.
 <b>Nature biotechnology</b>. 
 <!-- <span style="color:red">[Paper Link](https://arxiv.org/pdf/1907.09539.pdf)</span>-->
 
-<br>
-<b>[Transcriptome data analysis: Methods in Molecular Biology](https://link.springer.com/protocol/10.1007/978-1-0716-3886-6_7)</b> <br> 
-Ziyi Li, <b>Peng Yang</b>. <br> 
-<b>Humana Press</b>. 
 
 
 <b>[Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype](https://doi.org/10.1158/0008-5472.CAN-23-4070)</b> <br> 
@@ -74,3 +70,11 @@ Ruoxing Li, <b>Peng Yang</b>, Lulu Shang, Ziyi Li. <br>
 Mitchell L. Ramsey, Dhiraj Yadav, <b>Peng Yang</b>, Liang Li, Melena Bellin, William E. Fisher, Evan L. Fogel, Christopher E. Forsmark, Phil A Hart, Walter Park, Stephen J. Pandol, Jose Serrano, Temel Tirkes, Mark Topazian, Stephen Van Den Eeden, Santhi Swaroop Vege, Darwin L. Conwell. <br> 
 <i>In Prepartion.</i>
 
+---
+title: "Book Chapter"
+---
+
+<br>
+<b>[Transcriptome data analysis: Methods in Molecular Biology](https://link.springer.com/protocol/10.1007/978-1-0716-3886-6_7)</b> <br> 
+Ziyi Li, <b>Peng Yang</b>. <br> 
+<b>Humana Press</b>. 
