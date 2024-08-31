@@ -53,22 +53,22 @@ Shrabanti Chowdhury, Sammy Ferri-Borgogno, <b>Peng Yang</b>, Wenyi Wang, Jie Pen
 <br>
 <b>[Sync Twins: Enhance treatment effect estimation for decentralized clinical trial]</b> <br> 
 <b>Peng Yang</b>, Ruitao Lin, Ying Yuan. <br> 
-<i>In Prepartion.</i>
+<i>In Preparation.</i>
 
 <br>
 <b>[A Bayesian Design to Adaptively Borrow Information by Incorporating Longitudinal Measurements]</b> <br> 
 <b>Peng Yang</b>, Ying Yuan. <br> 
-<i>In Prepartion.</i>
+<i>In Preparation.</i>
 
 <br>
 <b>[PASTA: pathway-oriented expression imputation for spatial transcriptomics data]</b> <br> 
 Ruoxing Li, <b>Peng Yang</b>, Lulu Shang, Ziyi Li. <br> 
-<i>In Prepartion.</i>
+<i>In Preparation.</i>
 
 <br>
 <b>[Exocrine Pancreatic Dysfunction in Chronic Pancreatitis: Analysis of the PROCEED Study]</b> <br> 
 Mitchell L. Ramsey, Dhiraj Yadav, <b>Peng Yang</b>, Liang Li, Melena Bellin, William E. Fisher, Evan L. Fogel, Christopher E. Forsmark, Phil A Hart, Walter Park, Stephen J. Pandol, Jose Serrano, Temel Tirkes, Mark Topazian, Stephen Van Den Eeden, Santhi Swaroop Vege, Darwin L. Conwell. <br> 
-<i>In Prepartion.</i>
+<i>In Preparation.</i>
 
 ---
 title: "Book Chapter"
