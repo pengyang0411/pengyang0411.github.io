@@ -70,9 +70,8 @@ Ruoxing Li, <b>Peng Yang</b>, Lulu Shang, Ziyi Li. <br>
 Mitchell L. Ramsey, Dhiraj Yadav, <b>Peng Yang</b>, Liang Li, Melena Bellin, William E. Fisher, Evan L. Fogel, Christopher E. Forsmark, Phil A Hart, Walter Park, Stephen J. Pandol, Jose Serrano, Temel Tirkes, Mark Topazian, Stephen Van Den Eeden, Santhi Swaroop Vege, Darwin L. Conwell. <br> 
 <i>In Preparation.</i>
 
----
-title: "Book Chapter"
----
+<br>
+<b>Book Chapter<b> <br>
 
 <br>
 <b>[Transcriptome data analysis: Methods in Molecular Biology](https://link.springer.com/protocol/10.1007/978-1-0716-3886-6_7)</b> <br> 
