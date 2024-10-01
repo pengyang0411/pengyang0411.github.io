@@ -3,7 +3,7 @@ title: "Institute for Healthcare Delivery Science: Advanced Strategies in Clinic
 collection: talks
 type: "Talk"
 permalink: /talks/2024-09-26-talk-Mount Sinai
-venue: " "
+venue: "Icahn School of Medicine at Mount Sinai"
 date: 2024-09-26
 location: "New York City, New York"
 ---
