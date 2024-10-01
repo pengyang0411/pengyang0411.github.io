@@ -8,6 +8,6 @@ date: 2024-09-26
 location: "New York City, New York"
 ---
 
-Optimal Design for Multiple Dose Randomized Trials and Adaptive Information Borrowing with SAM
+Optimal Design for Multiple Dose Randomized Trials and Adaptive Information Borrowing with SAM.
 
 [Download slides here](https://pengyang0411.github.io/files/Mount_Sinai.pdf)
