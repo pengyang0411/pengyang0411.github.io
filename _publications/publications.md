@@ -8,6 +8,10 @@ author_profile: true
 <sup><span>&#8224;</span></sup> denotes co-first authorship; these authors contributed equally <br>
 <sup>#</sup> denotes correspondence authorship
 
+<b>[Single-Cell RNA Sequencing Identifies Molecular Biomarkers Predicting Late Progression to CDK4/6 Inhibition in Metastatic HR+/HER2- Breast Cancer]</b> <br> 
+Linjie Luo<sup><span>&#8224;</span></sup>, <b>Peng Yang</b><sup><span>&#8224;</span></sup>, Sofia Mastoraki, Xiayu Rao, Yan Wang, Nicole M. Kettner, Akshara Singareeka Raghavendra, Debasish Tripathy, Senthil Damodaran, Kelly K. Hunt, Jing Wang, Ziyi Li, Khandan Keyomarsi<sup>#</sup>. <br> 
+<b>Accepted in Molecular Cancer.</b>
+
 <b>[Design and Sample Size Determination for Multiple-dose Randomized Trials for Dose Optimization](https://onlinelibrary.wiley.com/doi/10.1002/sim.10093)</b> <br> 
 <b>Peng Yang</b>, Daniel Li, Ruitao Lin, Bo Huang, Ying Yuan<sup>#</sup>. <br> 
 <i>Selected for the 2023 ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop Student Poster Award!</i> <br>
@@ -34,10 +38,6 @@ Vahid Bahrambeigi, Jaewon J. Lee, Vittorio Branchi, Jason T. Henry, Kimal I. Raj
 
 <b>[A Bayesian Adaptive Design for Avatar-Driven Cancer Clinical Trials]</b> <br> 
 <b>Peng Yang</b>, Yeohee Park, Ying Yuan, Suyu Liu<sup>#</sup>. <br> 
-<i>In Submission.</i>
-
-<b>[Single-Cell RNA Sequencing Identifies Molecular Biomarkers Predicting Late Progression to CDK4/6 Inhibition in Metastatic HR+/HER2- Breast Cancer]</b> <br> 
-Linjie Luo<sup><span>&#8224;</span></sup>, <b>Peng Yang</b><sup><span>&#8224;</span></sup>, Sofia Mastoraki, Xiayu Rao, Yan Wang, Nicole M. Kettner, Akshara Singareeka Raghavendra, Debasish Tripathy, Senthil Damodaran, Kelly K. Hunt, Jing Wang, Ziyi Li, Khandan Keyomarsi<sup>#</sup>. <br> 
 <i>In Submission.</i>
 
 
